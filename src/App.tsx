@@ -9,10 +9,8 @@ import {
   Heart,
   Menu,
   Moon,
-  Feather,
   Flower2,
   Sparkles,
-  Sun,
   X,
 } from "lucide-react";
 import "./index.css";
